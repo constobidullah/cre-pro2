@@ -18,9 +18,22 @@ nav {
 
 #navName a {
     font-family: "Sixtyfour", sans-serif;
-    font-optical-sizing: auto;
+    /* font-optical-sizing: auto; */
     font-weight: 400;
     font-style: normal;
     color: #fff;
     text-decoration: none;
 }
+
+#bars{
+    display: none;
+}
+
+
+#bars-item i{
+    font-size: 1.5rem;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+}
+
