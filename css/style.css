@@ -37,3 +37,17 @@ nav {
     display: none;
 }
 
+#navlink{
+    display: flex;
+    gap: 20px;
+}
+
+#navlink a{
+    text-decoration: none;
+    color: #fff;
+    font-size: .9rem;
+    
+    font-family: "Sixtyfour", sans-serif;
+    /* font-optical-sizing: auto; */
+    font-weight: 400;
+}
